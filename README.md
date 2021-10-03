@@ -2,7 +2,7 @@
 ### We will always remember you..
 
 <div align="center">
-  <img border-radius: 15px src="sadboy.jpg" width="170" height="300"/>
+  <img border-radius: 15px src="badboy.jpg" width="170" height="170"/>
   <p align="center">
 <a href="#"><img title="sadboy" src="https://img.shields.io/badge/Kurumban-moder-pink?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
