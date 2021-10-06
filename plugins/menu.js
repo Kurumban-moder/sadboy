@@ -10,7 +10,7 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
     var r_text = new Array ();
     
     
-r_text[0] = "https://i.imgur.com/6fTLw6U.jpeg";
+r_text[0] = "https://imgur.com/a/wtohtnP";
     
     
     var i = Math.floor(1*Math.random())
@@ -18,16 +18,16 @@ r_text[0] = "https://i.imgur.com/6fTLw6U.jpeg";
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `╔═════════════════❍
-║-ʙᴀᴅʙᴏᴛᴢ 亗!!
+║-sᴀᴅʙᴏʏ 亗!!
 ║
 ║╾ ɴᴜᴍʙᴇʀ : @918593079460
 ║
 ║▬▭▬▭▬▭▬▭▬▭
-║╾ ᴄʀᴇᴀᴛᴏʀ : wa.me/918593079460
+║╾ ᴄʀᴇᴀᴛᴏʀ : wa.me/9173061 53229
 ║
 ║╾ ᴄʀᴇᴅɪᴛs : wa.me/918593079460
 ║
-║╾ ᴏᴡɴᴇʀ : BADBMODER亗!!
+║╾ ᴏᴡɴᴇʀ : ᴋᴜʀᴜᴍʙᴀɴ亗!!
 ║
 ║╾ ᴏᴡɴᴇʀ ɴᴜᴍʙᴇʀ : wa.me/918593079460
 ║
@@ -72,7 +72,7 @@ r_text[0] = "https://i.imgur.com/6fTLw6U.jpeg";
 ║┣❏ 
 ║┣❏ *!wallpaper*
 ║┣❏ 
-║┗━━━━*《ʙᴀᴅʙᴏᴛᴢ》*
+║┗━━━━*《sᴀᴅʙᴏᴛᴢ》*
 ╠═════════════════❍
 ║┣━━⊱*「Fun Commends」* 
 ║┣❏ *!joke*
@@ -101,7 +101,7 @@ r_text[0] = "https://i.imgur.com/6fTLw6U.jpeg";
 ║┣❏
 ║┣❏ *!anime*
 ║┣❏ 
-║┗━━━━*《ʙᴀᴅʙᴏᴛᴢ》*
+║┗━━━━*《sᴀᴅʙᴏᴛᴢ》*
 ╠═════════════════❍
 ║┣━━⊱*「Sticker Commends」* 
 ║┣❏ *!sticker*
@@ -116,7 +116,7 @@ r_text[0] = "https://i.imgur.com/6fTLw6U.jpeg";
 ║┣❏
 ║┣❏ *!carbon*
 ║┣❏
-║┗━━━━*《ʙᴀᴅʙᴏᴛᴢ》*
+║┗━━━━*《sᴀᴅʙᴏᴛᴢ》*
 ╠═════════════════❍
 ║┣━━⊱*「ʙɢᴍ ᴄᴏᴍᴍᴇɴᴅꜱ」* 
 ║┣❏ ᴀᴋʜɪʟ
@@ -455,7 +455,7 @@ r_text[0] = "https://i.imgur.com/6fTLw6U.jpeg";
 ║┣❏ ꜰʀᴇᴇ
 ║┣❏ ꜰꜰ
 ║┣❏ ʜᴀ
-║┗━━━━ *《ʙᴀᴅʙᴏᴛᴢ》*
+║┗━━━━ *《sᴀᴅʙᴏᴛᴢ》*
 ╠═════════════════❍
 ║┣━━⊱ *「Maker menu」* 
 ║┣❏ *.break*
@@ -527,9 +527,9 @@ r_text[0] = "https://i.imgur.com/6fTLw6U.jpeg";
 ║┣❏ *.cup*
 ║┣❏ *.cemetery*
 ║┣❏ *.glitch*
-║┗━━━━ *《ʙᴀᴅʙᴏᴛᴢ》*
+║┗━━━━ *《sᴀᴅʙᴏᴛᴢ》*
 ╚═════════════════❍ 
-║┣❏ *ʙᴀᴅʙᴏᴛᴢ*
+║┣❏ *sᴀᴅʙᴏᴛᴢ*
 ║┣❏ 
 ║┣❏ ✆ ʀᴇᴘᴏʀᴛ ʙᴜɢ?
 ║┣❏ 
@@ -537,9 +537,9 @@ r_text[0] = "https://i.imgur.com/6fTLw6U.jpeg";
 ║┣❏ 
 ║┣❏ ✆ ᴄʀᴇᴅɪᴛs ɢᴏᴇs ᴛᴏ!
 ║┣❏ 
-║┣❏ https://wa.me/918593079460
+║┣❏ https://wa.me/9173061 53229
 ║┣❏ 
-║┗━━━━ *《ʙᴀᴅʙᴏᴛᴢ》*
+║┗━━━━ *《sᴀᴅʙᴏᴛᴢ》*
 ╚═════════════════❍ 
 
 `}) 
